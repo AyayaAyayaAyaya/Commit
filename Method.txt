@@ -1,4 +1,12 @@
 创建：
 git init
 git remote add origin "wangye"
-git 
+git pull
+
+拉取
+git pull
+
+提交
+git add .
+git commit -m"miaoshu "
+git push
